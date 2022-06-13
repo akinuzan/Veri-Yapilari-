@@ -1,1 +1,3 @@
-# Veri-Yapilari-
+# Veri-Yapilari 
+
+erdtfyhujımk
