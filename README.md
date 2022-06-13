@@ -1,4 +1,4 @@
-# Veri-Yapilari 
+# Insertion Sort
 
 ## Soru 1 Cevap: 
 
@@ -22,6 +22,9 @@ Dizi sıralandıktan sonra 18 sayısı ortada bulunan iki sayıdan birisi olduğ
 [2,3,4,8,7,9,5,15,6] 
 [2,3,4,5,7,9,8,15,6]
 
+# Merge Sort 
 
+
+# Binary Tree 
 
 
