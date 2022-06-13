@@ -25,7 +25,7 @@ Dizi sıralandıktan sonra 18 sayısı ortada bulunan iki sayıdan birisi olduğ
 # Merge Sort 
 
 
-                                         [16,21,11,8,12,22] 
+                                        [16,21,11,8,12,22] 
 			[16,21,11]					[8,12,22] 
 		[16]		[21,11]				[8]		[12,22]
 		[16]	[21]	[11]				[8]	[12]	[22]             
